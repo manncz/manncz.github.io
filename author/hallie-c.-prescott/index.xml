@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hallie C. Prescott | Charlotte Zilber Mann</title>
+    <link>https://manncz.github.io/author/hallie-c.-prescott/</link>
+      <atom:link href="https://manncz.github.io/author/hallie-c.-prescott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hallie C. Prescott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manncz.github.io/images/icon_hu6c99b92144fcbc4e30752e6c6d9a0d50_18545_512x512_fill_lanczos_center_2.png</url>
+      <title>Hallie C. Prescott</title>
+      <link>https://manncz.github.io/author/hallie-c.-prescott/</link>
+    </image>
+    
+    <item>
+      <title>Derivation and external validation of a simple risk score to predict in-hospital mortality in patients hospitalized for COVID-19</title>
+      <link>https://manncz.github.io/publication/covid-risk/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://manncz.github.io/publication/covid-risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

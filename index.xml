@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlotte Zilber Mann</title>
+    <link>https://manncz.github.io/</link>
+      <atom:link href="https://manncz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charlotte Zilber Mann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manncz.github.io/images/icon_hu6c99b92144fcbc4e30752e6c6d9a0d50_18545_512x512_fill_lanczos_center_2.png</url>
+      <title>Charlotte Zilber Mann</title>
+      <link>https://manncz.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Combining observational and experimental data for causal inference considering data privacy</title>
+      <link>https://manncz.github.io/publication/exp-obs-priv/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://manncz.github.io/publication/exp-obs-priv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derivation and external validation of a simple risk score to predict in-hospital mortality in patients hospitalized for COVID-19</title>
+      <link>https://manncz.github.io/publication/covid-risk/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://manncz.github.io/publication/covid-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol -- Evaluating the effect of ACA Medicaid expansion on mortality during the COVID-19 pandemic using county level matching</title>
+      <link>https://manncz.github.io/publication/medicaid-covid/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://manncz.github.io/publication/medicaid-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol: Evaluating the Effect of ACA Medicaid Expansion on 2015-2018 Mortality Through Matching and Weighting</title>
+      <link>https://manncz.github.io/publication/medicaid-pwrd/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://manncz.github.io/publication/medicaid-pwrd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

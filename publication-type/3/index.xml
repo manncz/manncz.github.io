@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Charlotte Zilber Mann</title>
+    <link>https://manncz.github.io/publication-type/3/</link>
+      <atom:link href="https://manncz.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manncz.github.io/images/icon_hu6c99b92144fcbc4e30752e6c6d9a0d50_18545_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://manncz.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Combining observational and experimental data for causal inference considering data privacy</title>
+      <link>https://manncz.github.io/publication/exp-obs-priv/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://manncz.github.io/publication/exp-obs-priv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
