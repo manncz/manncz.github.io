@@ -3,73 +3,53 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Charlotte Zilber Mann's Academic Website"
+author-meta: "Dr. Charlotte Zilber Mann"
 
 website:
-  title: "Quarto Academic"
+  title: "Charlotte Zilber Mann"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "QCharlotte Zilber Mann's Academic Website"
  
   navbar:
-    background: light
+#    background: light
 
     left:
 #      - text: Home
 #        href: index.qmd
       - text: About
         menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
+          - text: What's New
+            href: posts.qmd
           - text: Contact
-            href: contact.qmd             
+            href: pages/contact.qmd     
+      - text: Teaching
+        href: pages/teaching.qmd
       - text: Research
         menu:
-          - text: List of Publication
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
-      - text: Teaching
-        href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group
-        href: people.qmd
+          - text: Publications
+            href: pages/publications.qmd
+          - text: Interests and Projects
+            href: pages/projects.qmd                                
+      - text: Presentations
+        href: posts.qmd#category=presentation                   
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/CV.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
+        href: https://github.com/manncz
         target: _blank
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "Charlotte Mann &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Built on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/manncz/github.io
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
   
   search:
     location: navbar
@@ -79,7 +59,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://github.com/manncs/github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -87,17 +67,14 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
-  
-  google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
+  site-url: "https://manncz.github.io"
+
 
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: lumen
     css: styles.css
     toc: true
     footnotes-hover: true

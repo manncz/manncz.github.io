@@ -1,1 +1,7 @@
 /.quarto/
+.Rproj.user
+
+*.Rproj
+
+*.DS_Store
+*.Rhistory

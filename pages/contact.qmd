@@ -1,0 +1,21 @@
+---
+title: "Contact"
+description-meta: "Reach out to me with questions and comments"
+title-block-banner: false
+---
+
+<center>
+
+**Charlotte Z. Mann**
+
+Statistics Department
+
+Bailey College of Science and Mathematics
+
+California Polytechnic State University (Cal Poly), San Luis Obispo
+
+
+E-mail: czmann [at] calpoly [dot] edu
+
+
+</center>

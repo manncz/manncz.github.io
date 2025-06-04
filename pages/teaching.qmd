@@ -1,0 +1,47 @@
+---
+title: "Teaching"
+title-block-banner: false
+---
+
+
+## STAT 331: Statistical Computing in R
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](https://131335021.cdn6.editmysite.com/uploads/1/3/1/3/131335021/3RPPOJKP2FCUQMHFFLVYAWV3.png?width=2400&optimize=medium)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Spring 2025](https://manncz.github.io/stat-331-s25/), &nbsp; Winter 2024
+
+An introduction to programming for data and statistical analysis in R. The course covers basic programming concepts necessary for statistics, good computing practice, and use of built-in functions to complete basic statistical analyses.
+
+:::
+
+:::
+
+
+## STAT 217: Introduction to Statistical Concepts and Methods
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](../files/images/isi.jpg)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+Fall 2024
+
+An introductory course in statistics for liberal arts majors. The course addresses issues in data collection, including sampling and experimental design, graphical and numerical techniques for exploring and modeling data, and statistical inference.
+
+:::
+
+:::
+
+
+

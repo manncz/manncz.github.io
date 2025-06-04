@@ -1,0 +1,19 @@
+
+---
+title: "Tools for Planning & Analyzing Randomized Controlled Trials & A/B Tests"
+description: "Half-Day Workshop at Educational Data Mining Conference 2024"
+date: "2024-07-14"
+categories: [presentation]
+#image: "/files/images/placeholder2.JPG"
+#css: /custom.css
+#draft: true
+---
+
+Organized by Adam Sales, Johann Gagnon-Bartsch, Duy Pham, Charlotte Mann, and Jaylin Lowe.
+
+Links:
+
+- Tutorial [website](https://sites.google.com/g.ucla.edu/edm2024tutorial/home)
+- [Materials](https://github.com/manncz/edm-rct-tutorial)
+- [Slides](slides.pdf)
+

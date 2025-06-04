@@ -1,0 +1,29 @@
+---
+title: "Combining observational and experimental data for causal inference considering data privacy"
+author: 
+  - name: Charlotte Z. Mann
+  - name: Adam C. Sales
+  - name: Johann A. Gagnon-Bartsch
+date: ""
+categories: [paper]
+citation:
+  type: article-journal
+  container-title: "Journal of Causal Inference"
+  doi: "10.1515/jci-2022-0081"
+  available-date: "2025-03-11"
+  issued: "2025-03-11"
+  volume: 13
+  issue: 1
+  url: https://doi.org/10.1515/jci-2022-0081
+google-scholar: true
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+
+## Abstract
+
+Combining observational and experimental data for causal inference can improve treatment effect estimation. However, many observational datasets cannot be released due to data privacy considerations, so one researcher may not have access to both experimental and observational data. Nonetheless, a small amount of risk of disclosing sensitive information might be tolerable to organizations that house confidential data. In these cases, organizations can employ data privacy techniques, which decrease disclosure risk, potentially at the expense of data utility. In this study, we explore disclosure limiting transformations of observational data, which can be combined with experimental data to estimate the sample and population average treatment effects. We consider leveraging observational data to improve generalizability of treatment effect estimates, when a randomized controlled trial (RCT) is not representative of the population of interest, and to increase precision of treatment effect estimates. Through simulation studies, we illustrate the trade-off between privacy and utility when employing different disclosure limiting transformations. We find that leveraging transformed observational data in treatment effect estimation can still improve estimation over only using data from an RCT.
+

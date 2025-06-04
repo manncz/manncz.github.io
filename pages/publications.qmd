@@ -1,0 +1,32 @@
+---
+title: "Publications"
+description-meta: "Information, pdfs, and social metrics of papers"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: false
+css: ../custom.css
+---
+
+
+## Peer Reviewed
+
+**Mann, C. Z.**, Sales, A. C. and Gagnon-Bartsch, J. A.. (2025) "Combining observational and experimental data for causal inference considering data privacy" *Journal of Causal Inference*, 13(1). https://doi.org/10.1515/jci-2022-0081. [[pdf](https://www.degruyterbrill.com/document/doi/10.1515/jci-2022-0081/html)] [[code and data](https://github.com/manncz/exp-obs-priv)] 
+
+**Mann, C. Z.**, Hansen, B. B., and Gaydosh, L. (2024) "Early effects of 2014 U.S. Medicaid expansions on mortality: Design-based inference for impacts on small subgroups despite small-cell suppression." *Annals of Applied Statistics*, 18(4), 2887-2908. doi:10.1214/24-AOAS1910. [[pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-4/Early-effects-of-2014-US-Medicaid-expansions-on-mortality/10.1214/24-AOAS1910.short)] [[code and data](https://github.com/manncz/medicaid-supp)] 
+
+**Mann, C. Z.**, Sales, A., Wang, J., and Gagnon-Bartsch, J. A. (2024) "Using Publicly Available Auxiliary Data to Improve Precision of Treatment Effect Estimation in a Randomized Efficacy Trial." *Proceedings of the 17th International Conference on Educational Data Mining, International Educational Data Mining Society*, 518-525. doi:10.5281/zenodo.12729874. [[pdf](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.52/2024.EDM-short-papers.52.pdf)] [[html](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.52/index.html)] [[code and data](https://github.com/manncz/aeis-aux-rct)] 
+
+Lowe, J., **Mann, C. Z.**,  Wang, J., Sales, A., and Gagnon-Bartsch, J. A. (2024) "Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data." *Proceedings of the 17th International Conference on Educational Data Mining, International Educational Data Mining Society*, 469–475. doi:10.5281/zenodo.12729862. [[pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.46/2024.EDM-short-papers.46.pdf)]
+
+**Mann, C. Z.**, Abshire, C., Yost, M., Kaatz, S., Swaminathan, L., Flanders, S. A., Prescott,
+H. C., and Gagnon-Bartsch, J. A. (2021) “Derivation and external validation of a simple risk
+score to predict in-hospital mortality in patients hospitalized for COVID-19.”  *Medicine*, 100(40), e27422. doi:10.1097/ MD.0000000000027422. [[pdf](https://journals.lww.com/md-journal/fulltext/2021/10080/derivation_and_external_validation_of_a_simple.25.aspx)] [[shiny app](https://micovidriskcalc.org/)]
+
+**Mann, C. Z.**, Hansen, B. B., Gaydosh, L., and Lycurgus, T. (2021). "Protocol --- Evaluating the effect of ACA Medicaid expansion on mortality during the COVID-19 pandemic using county level matching." *Observational Studies*, 7(2), S1-S31. doi:10.1353/obs.2021.0034. [[pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC11180987/)] [[code and data](https://github.com/manncz/medicaid-supp)] 
+
+Lycurgus, T.,  Hansen, B. B., and **Mann, C. Z.** (2021). "Protocol: Evaluating the effect of ACA Medicaid expansion
+on 2015-2018 mortality through matching and weighting." *Observational Studies*, 7(2), 1-13. doi:10.1353/obs.2021.0033.
+
+## In-Preparation
+
+**Mann, C. Z.**, Sales, A., and Gagnon-Bartsch, J. A. "A general framework for design-based treatment effect estimation in paired cluster-randomized experiments." *ArXiv Preprint* [[pdf](https://arxiv.org/abs/2407.01765})]

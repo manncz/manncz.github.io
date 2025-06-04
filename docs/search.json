@@ -1,142 +1,79 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Mann, C. Z., Sales, A. C. and Gagnon-Bartsch, J. A.. (2025) “Combining observational and experimental data for causal inference considering data privacy” Journal of Causal Inference, 13(1). https://doi.org/10.1515/jci-2022-0081. [pdf] [code and data]\nMann, C. Z., Hansen, B. B., and Gaydosh, L. (2024) “Early effects of 2014 U.S. Medicaid expansions on mortality: Design-based inference for impacts on small subgroups despite small-cell suppression.” Annals of Applied Statistics, 18(4), 2887-2908. doi:10.1214/24-AOAS1910. [pdf] [code and data]\nMann, C. Z., Sales, A., Wang, J., and Gagnon-Bartsch, J. A. (2024) “Using Publicly Available Auxiliary Data to Improve Precision of Treatment Effect Estimation in a Randomized Efficacy Trial.” Proceedings of the 17th International Conference on Educational Data Mining, International Educational Data Mining Society, 518-525. doi:10.5281/zenodo.12729874. [pdf] [html] [code and data]\nLowe, J., Mann, C. Z., Wang, J., Sales, A., and Gagnon-Bartsch, J. A. (2024) “Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data.” Proceedings of the 17th International Conference on Educational Data Mining, International Educational Data Mining Society, 469–475. doi:10.5281/zenodo.12729862. [pdf]\nMann, C. Z., Abshire, C., Yost, M., Kaatz, S., Swaminathan, L., Flanders, S. A., Prescott, H. C., and Gagnon-Bartsch, J. A. (2021) “Derivation and external validation of a simple risk score to predict in-hospital mortality in patients hospitalized for COVID-19.” Medicine, 100(40), e27422. doi:10.1097/ MD.0000000000027422. [pdf] [shiny app]\nMann, C. Z., Hansen, B. B., Gaydosh, L., and Lycurgus, T. (2021). “Protocol — Evaluating the effect of ACA Medicaid expansion on mortality during the COVID-19 pandemic using county level matching.” Observational Studies, 7(2), S1-S31. doi:10.1353/obs.2021.0034. [pdf] [code and data]\nLycurgus, T., Hansen, B. B., and Mann, C. Z. (2021). “Protocol: Evaluating the effect of ACA Medicaid expansion on 2015-2018 mortality through matching and weighting.” Observational Studies, 7(2), 1-13. doi:10.1353/obs.2021.0033."
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
+    "objectID": "pages/publications.html#peer-reviewed",
+    "href": "pages/publications.html#peer-reviewed",
     "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n        \n         \n          Title\n        \n         \n          Team\n        \n         \n          Funder\n        \n         \n          Description\n        \n         \n          Start\n        \n         \n          End\n        \n         \n          Funding\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nTitle\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\nNo matching items"
+    "text": "Mann, C. Z., Sales, A. C. and Gagnon-Bartsch, J. A.. (2025) “Combining observational and experimental data for causal inference considering data privacy” Journal of Causal Inference, 13(1). https://doi.org/10.1515/jci-2022-0081. [pdf] [code and data]\nMann, C. Z., Hansen, B. B., and Gaydosh, L. (2024) “Early effects of 2014 U.S. Medicaid expansions on mortality: Design-based inference for impacts on small subgroups despite small-cell suppression.” Annals of Applied Statistics, 18(4), 2887-2908. doi:10.1214/24-AOAS1910. [pdf] [code and data]\nMann, C. Z., Sales, A., Wang, J., and Gagnon-Bartsch, J. A. (2024) “Using Publicly Available Auxiliary Data to Improve Precision of Treatment Effect Estimation in a Randomized Efficacy Trial.” Proceedings of the 17th International Conference on Educational Data Mining, International Educational Data Mining Society, 518-525. doi:10.5281/zenodo.12729874. [pdf] [html] [code and data]\nLowe, J., Mann, C. Z., Wang, J., Sales, A., and Gagnon-Bartsch, J. A. (2024) “Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data.” Proceedings of the 17th International Conference on Educational Data Mining, International Educational Data Mining Society, 469–475. doi:10.5281/zenodo.12729862. [pdf]\nMann, C. Z., Abshire, C., Yost, M., Kaatz, S., Swaminathan, L., Flanders, S. A., Prescott, H. C., and Gagnon-Bartsch, J. A. (2021) “Derivation and external validation of a simple risk score to predict in-hospital mortality in patients hospitalized for COVID-19.” Medicine, 100(40), e27422. doi:10.1097/ MD.0000000000027422. [pdf] [shiny app]\nMann, C. Z., Hansen, B. B., Gaydosh, L., and Lycurgus, T. (2021). “Protocol — Evaluating the effect of ACA Medicaid expansion on mortality during the COVID-19 pandemic using county level matching.” Observational Studies, 7(2), S1-S31. doi:10.1353/obs.2021.0034. [pdf] [code and data]\nLycurgus, T., Hansen, B. B., and Mann, C. Z. (2021). “Protocol: Evaluating the effect of ACA Medicaid expansion on 2015-2018 mortality through matching and weighting.” Observational Studies, 7(2), 1-13. doi:10.1353/obs.2021.0033."
   },
   {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
+    "objectID": "pages/publications.html#in-preparation",
+    "href": "pages/publications.html#in-preparation",
+    "title": "Publications",
+    "section": "In-Preparation",
+    "text": "In-Preparation\nMann, C. Z., Sales, A., and Gagnon-Bartsch, J. A. “A general framework for design-based treatment effect estimation in paired cluster-randomized experiments.” ArXiv Preprint [pdf]"
   },
   {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "Charlotte Z. Mann\nStatistics Department\nBailey College of Science and Mathematics\nCalifornia Polytechnic State University (Cal Poly), San Luis Obispo\nE-mail: czmann [at] calpoly [dot] edu"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCombining observational and experimental data for causal inference considering data privacy\n\n\n\n\n\n\npaper\n\n\n\n\n\n\n\n\n\nCharlotte Z. Mann, Adam C. Sales, Johann A. Gagnon-Bartsch\n\n\n\n\n\n\n\n\n\n\n\n\nTools for Planning & Analyzing Randomized Controlled Trials & A/B Tests\n\n\n\n\n\n\npresentation\n\n\n\nHalf-Day Workshop at Educational Data Mining Conference 2024\n\n\n\n\n\nJul 14, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/exp-priv/index.html#abstract",
+    "href": "posts/exp-priv/index.html#abstract",
+    "title": "Combining observational and experimental data for causal inference considering data privacy",
+    "section": "Abstract",
+    "text": "Abstract\nCombining observational and experimental data for causal inference can improve treatment effect estimation. However, many observational datasets cannot be released due to data privacy considerations, so one researcher may not have access to both experimental and observational data. Nonetheless, a small amount of risk of disclosing sensitive information might be tolerable to organizations that house confidential data. In these cases, organizations can employ data privacy techniques, which decrease disclosure risk, potentially at the expense of data utility. In this study, we explore disclosure limiting transformations of observational data, which can be combined with experimental data to estimate the sample and population average treatment effects. We consider leveraging observational data to improve generalizability of treatment effect estimates, when a randomized controlled trial (RCT) is not representative of the population of interest, and to increase precision of treatment effect estimates. Through simulation studies, we illustrate the trade-off between privacy and utility when employing different disclosure limiting transformations. We find that leveraging transformed observational data in treatment effect estimation can still improve estimation over only using data from an RCT."
+  },
+  {
+    "objectID": "posts/edm/index.html",
+    "href": "posts/edm/index.html",
+    "title": "Tools for Planning & Analyzing Randomized Controlled Trials & A/B Tests",
+    "section": "",
+    "text": "Organized by Adam Sales, Johann Gagnon-Bartsch, Duy Pham, Charlotte Mann, and Jaylin Lowe.\nLinks:\n\nTutorial website\nMaterials\nSlides"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Charlotte Zilber Mann, PhD",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository so you can easily come back to the template\n\nFolk this tempate and rename it to yourgithubusername.github.io\n\nUpdate and edit _quarto.yml file for website setup\n\nUpdate and add contents to /posts, teaching.qmd, projects.yml, and people.qmd and /people as needed.\nRender and preview your website and publish it to your GitHub.\nPolish and fix any issues\n\nEnjoy your website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "E-mail\n  \n  \n    \n     Github\n  \n  \n      ORCID\n  \n\n  \n  \nHello and welcome!\nI am currently an Assistant Professor of Statistics at Cal Poly in San Luis Obispo, CA.\nMy research interests are driven by a desire to do research with applications in education and public health. Within these broad fields, I am interested in educational interventions, pedagogy, equity in education, social determinants of health, and equity in health care access.\nI am also committed to improving as an instructor and am interested in Statistics pedagogy, with particular interest in improving instruction of introductory statistics courses."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
+    "objectID": "pages/teaching.html",
+    "href": "pages/teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Researcher, Univerisity"
+    "text": "Spring 2025,   Winter 2024\nAn introduction to programming for data and statistical analysis in R. The course covers basic programming concepts necessary for statistics, good computing practice, and use of built-in functions to complete basic statistical analyses."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "objectID": "pages/teaching.html#stat-331-statistical-computing-in-r",
+    "href": "pages/teaching.html#stat-331-statistical-computing-in-r",
+    "title": "Teaching",
     "section": "",
-    "text": "PhD, Univerisity"
+    "text": "Spring 2025,   Winter 2024\nAn introduction to programming for data and statistical analysis in R. The course covers basic programming concepts necessary for statistics, good computing practice, and use of built-in functions to complete basic statistical analyses."
   },
   {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n        \n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\n\n\nStudent Name\n\n\nPhD Student\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\nPI Name\n\n\nPI\n\n\n \n\n\n \n\n\n\n\n\nNo matching items"
+    "objectID": "pages/teaching.html#stat-217-introduction-to-statistical-concepts-and-methods",
+    "href": "pages/teaching.html#stat-217-introduction-to-statistical-concepts-and-methods",
+    "title": "Teaching",
+    "section": "STAT 217: Introduction to Statistical Concepts and Methods",
+    "text": "STAT 217: Introduction to Statistical Concepts and Methods\n\n\n\n\n\nFall 2024\nAn introductory course in statistics for liberal arts majors. The course addresses issues in data collection, including sampling and experimental design, graphical and numerical techniques for exploring and modeling data, and statistical inference."
   }
 ]
