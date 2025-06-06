@@ -35,7 +35,7 @@ An introduction to programming for data and statistical analysis in R. The cours
 
 ::: {.g-col-12 .g-col-md-10}
 
-Fall 2024
+[Fall 2024](../files/syllabi/stat217-f24.pdf)
 
 An introductory course in statistics for liberal arts majors. The course addresses issues in data collection, including sampling and experimental design, graphical and numerical techniques for exploring and modeling data, and statistical inference.
 

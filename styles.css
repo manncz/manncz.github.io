@@ -12,6 +12,15 @@ p {
   font-size: 20px;
 }
 
+li {
+  font-size: 20px;
+}
+
+Footer p {
+ font-size: 12px;
+}
+
+
 .dropdown-menu {
   --bs-dropdown-zindex: 1000;
   --bs-dropdown-min-width: 10rem;

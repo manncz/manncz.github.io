@@ -1,0 +1,29 @@
+---
+title: "Cooking & Food"
+---
+
+## Recipes
+
+Much more to come...
+
+## SLO Cookbook Club
+
+:::columns
+
+:::{.column width = "30%"}
+![](../files/images/slo_club.png)
+:::
+
+:::{.column width = "5%"}
+:::
+
+:::{.column width = "65%"}
+
+[Stephanie Fabro](https://happyfridaybakes.com/) and I co-founded the SLO Cookbook Club (although all of the credit really goes to her!). Think potluck meets book club. We are an open group that meets one Sunday a month from 2-4pm at [Two Broads Cider](https://twobroadscider.com/). 
+
+You can [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfvMDS9tJS7nNlvxcI4gRgn6sX5m3QQF6gkpPr8xiUBdLHaNQ/viewform) to get on the email list and group Discord. You can also just sign up directly for the next meeting [here](https://docs.google.com/spreadsheets/d/1uf4WFf6tB1OfQfYkrOvDHF6YzPCAJzfZwTd8MqlX9Hg/edit?usp=sharing)! Finally, you can follow [\@slocookbookclub](https://www.instagram.com/slocookbookclub/?igsh=NTc4MTIwNjQ2YQ%3D%3D#) to learn more and see what we have made in previous meetings (also credit to Stephanie). 
+
+:::
+:::
+
+

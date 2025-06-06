@@ -1,0 +1,10 @@
+---
+title: "Places"
+---
+
+I like to create overwhelming lists of things that I love in the places where I have lived. 
+
+- [South-East Michigan](places/se_michigan.qmd)
+
+
+

@@ -32,8 +32,14 @@ website:
           - text: Interests and Projects
             href: pages/projects.qmd                                
       - text: Presentations
-        href: posts.qmd#category=presentation                   
-
+        href: posts.qmd#category=presentation   
+      - text: Creative
+        menu:
+          - text: Cooking
+            href: pages/cooking.qmd
+          - text: Places
+            href: pages/places.qmd
+      
     right: 
       - text: CV
         href: files/CV.pdf
@@ -45,7 +51,7 @@ website:
   
   page-footer: 
     left: "Charlotte Mann &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Built on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    center: "Built with ♥ from the [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
         href: https://github.com/manncz/github.io
