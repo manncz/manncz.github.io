@@ -15,7 +15,7 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://manncz.github.io/stat-331-s25/), &nbsp; Winter 2024
+[Spring 2026](https://manncz.github.io/stat331-calpoly-s26/), [Spring 2025](https://manncz.github.io/stat-331-s25/), Winter 2024
 
 An introduction to programming for data and statistical analysis in R. The course covers basic programming concepts necessary for statistics, good computing practice, and use of built-in functions to complete basic statistical analyses.
 
@@ -23,6 +23,46 @@ An introduction to programming for data and statistical analysis in R. The cours
 
 :::
 
+## STAT 301: Statistics I
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+
+![](https://www.rossmanchance.com/iscam3/index_files/image003.jpg)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Winter 2026](../files/syllabi/stat301-w26.pdf)
+
+An introductory course in statistics for mathematically oriented majors (statistics, mathematics, economics, etc.). The course focuses on the process of statistical investigations including analyzing experiments and observational studies, and conducting inference.
+
+:::
+
+:::
+
+## STAT 313:  Applied Experimental Design and Regression Models
+
+::: {.grid}
+
+
+
+::: {.g-col-12 .g-col-md-2}
+
+![](../files/images/isi2.png)
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2025](../files/syllabi/stat313-f25.pdf)
+
+A second statistics course for students not majoring in statistics or mathematics. The primary focus of the course is explaining variation in continuous outcomes using ANOVA and regression analysis. A variety of experimental designs are explored.
+
+:::
+
+:::
 
 ## STAT 217: Introduction to Statistical Concepts and Methods
 

@@ -32,7 +32,7 @@
     "href": "posts.html",
     "title": "What’s New",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCombining observational and experimental data for causal inference considering data privacy\n\n\n\n\n\n\npaper\n\n\n\n\n\n\n\n\n\nCharlotte Z. Mann, Adam C. Sales, Johann A. Gagnon-Bartsch\n\n\n\n\n\n\n\n\n\n\n\n\nTools for Planning & Analyzing Randomized Controlled Trials & A/B Tests\n\n\n\n\n\n\npresentation\n\n\n\nHalf-Day Workshop at Educational Data Mining Conference 2024\n\n\n\n\n\nJul 14, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCombining observational and experimental data for causal inference considering data privacy\n\n\n\npaper\n\n\n\n\n\n\n\n\n\nCharlotte Z. Mann, Adam C. Sales, Johann A. Gagnon-Bartsch\n\n\n\n\n\n\n\n\n\n\n\n\nTools for Planning & Analyzing Randomized Controlled Trials & A/B Tests\n\n\n\npresentation\n\n\n\nHalf-Day Workshop at Educational Data Mining Conference 2024\n\n\n\n\n\nJul 14, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/exp-priv/index.html#abstract",
@@ -60,14 +60,14 @@
     "href": "pages/teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Spring 2025,   Winter 2024\nAn introduction to programming for data and statistical analysis in R. The course covers basic programming concepts necessary for statistics, good computing practice, and use of built-in functions to complete basic statistical analyses."
+    "text": "Spring 2026, Spring 2025, Winter 2024\nAn introduction to programming for data and statistical analysis in R. The course covers basic programming concepts necessary for statistics, good computing practice, and use of built-in functions to complete basic statistical analyses."
   },
   {
     "objectID": "pages/teaching.html#stat-331-statistical-computing-in-r",
     "href": "pages/teaching.html#stat-331-statistical-computing-in-r",
     "title": "Teaching",
     "section": "",
-    "text": "Spring 2025,   Winter 2024\nAn introduction to programming for data and statistical analysis in R. The course covers basic programming concepts necessary for statistics, good computing practice, and use of built-in functions to complete basic statistical analyses."
+    "text": "Spring 2026, Spring 2025, Winter 2024\nAn introduction to programming for data and statistical analysis in R. The course covers basic programming concepts necessary for statistics, good computing practice, and use of built-in functions to complete basic statistical analyses."
   },
   {
     "objectID": "pages/teaching.html#stat-217-introduction-to-statistical-concepts-and-methods",
@@ -152,5 +152,33 @@
     "title": "Cooking & Food",
     "section": "SLO Cookbook Club",
     "text": "SLO Cookbook Club\n\n\n\n\n\n\nStephanie Fabro and I co-founded the SLO Cookbook Club (although all of the credit really goes to her!). Think potluck meets book club. We are an open group that meets one Sunday a month from 2-4pm at Two Broads Cider.\nYou can sign up to get on the email list and group Discord. You can also just sign up directly for the next meeting here! Finally, you can follow @slocookbookclub to learn more and see what we have made in previous meetings (also credit to Stephanie)."
+  },
+  {
+    "objectID": "pages/teaching.html#stat-301",
+    "href": "pages/teaching.html#stat-301",
+    "title": "Teaching",
+    "section": "STAT 301:",
+    "text": "STAT 301:\n\n\n\n\n\nWinter 2025"
+  },
+  {
+    "objectID": "pages/teaching.html#stat-313",
+    "href": "pages/teaching.html#stat-313",
+    "title": "Teaching",
+    "section": "STAT 313:",
+    "text": "STAT 313:\n\n\n\n\n\nFall 2025"
+  },
+  {
+    "objectID": "pages/teaching.html#stat-301-statistics-i",
+    "href": "pages/teaching.html#stat-301-statistics-i",
+    "title": "Teaching",
+    "section": "STAT 301: Statistics I",
+    "text": "STAT 301: Statistics I\n\n\n\n\n\nWinter 2026\nAn introductory course in statistics for mathematically oriented majors (statistics, mathematics, economics, etc.). The course focuses on the process of statistical investigations including analyzing experiments and observational studies, and conducting inference."
+  },
+  {
+    "objectID": "pages/teaching.html#stat-313-applied-experimental-design-and-regression-models",
+    "href": "pages/teaching.html#stat-313-applied-experimental-design-and-regression-models",
+    "title": "Teaching",
+    "section": "STAT 313: Applied Experimental Design and Regression Models",
+    "text": "STAT 313: Applied Experimental Design and Regression Models\n\n\n\n\n\nFall 2025\nA second statistics course for students not majoring in statistics or mathematics. The primary focus of the course is explaining variation in continuous outcomes using ANOVA and regression analysis. A variety of experimental designs are explored."
   }
 ]
